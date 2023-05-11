@@ -1,3 +1,9 @@
-_G.UserName = "dastero08"
+```lua
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetSimulatorXScripts/main/AutoFarm.lua", true))()
+_G.Key = "dastero08"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/psx-Scripts/psxsc/main/script-v4-1.lua"))()
+
+```
+
+
